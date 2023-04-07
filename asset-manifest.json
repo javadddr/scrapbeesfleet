@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/scrapbeesfleet/static/css/main.2446aa0b.css",
+    "main.css": "/scrapbeesfleet/static/css/main.b7fed8b7.css",
     "main.js": "/scrapbeesfleet/static/js/main.c4bd5e50.js",
     "static/js/787.b80e527c.chunk.js": "/scrapbeesfleet/static/js/787.b80e527c.chunk.js",
     "static/media/Marco.jpeg": "/scrapbeesfleet/static/media/Marco.1f8e6f5db7f0fb6b5f91.jpeg",
@@ -26,12 +26,12 @@
     "static/media/adnan.jpeg": "/scrapbeesfleet/static/media/adnan.fb826757e3ab2f5d1223.jpeg",
     "static/media/omed.jpeg": "/scrapbeesfleet/static/media/omed.501e8a4b29b87397fc95.jpeg",
     "index.html": "/scrapbeesfleet/index.html",
-    "main.2446aa0b.css.map": "/scrapbeesfleet/static/css/main.2446aa0b.css.map",
+    "main.b7fed8b7.css.map": "/scrapbeesfleet/static/css/main.b7fed8b7.css.map",
     "main.c4bd5e50.js.map": "/scrapbeesfleet/static/js/main.c4bd5e50.js.map",
     "787.b80e527c.chunk.js.map": "/scrapbeesfleet/static/js/787.b80e527c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2446aa0b.css",
+    "static/css/main.b7fed8b7.css",
     "static/js/main.c4bd5e50.js"
   ]
 }
